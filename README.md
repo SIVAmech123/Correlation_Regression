@@ -59,7 +59,9 @@ plt.plot(x,y1,'r')
 plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
+
 ```
+
 # Output
 ![290992435-76c95857-e146-49a5-b432-b68175687368](https://github.com/user-attachments/assets/7991a735-b461-4c87-b865-c5ad89dab9cd)
 
